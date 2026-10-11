@@ -88,9 +88,6 @@ const skills = [
     },
 
 
-
-
-
     {
         name: "Git",
         icon: (
@@ -347,7 +344,6 @@ export default function About() {
 
                 </div>
             </section>
-
         </>
     );
 }
