@@ -121,7 +121,7 @@ export default function About() {
 
         <>
             <section
-                id="about"
+                id="home"
                 className="relative overflow-hidden bg-[#020b18] px-5 py-14 text-white sm:px-8 lg:px-10"
             >
 
@@ -219,7 +219,7 @@ export default function About() {
                                 </span>
                             </div>
 
-                            <div className="flex max-w-xl flex-wrap gap-2.5">
+                            <div id="skills" className="flex max-w-xl flex-wrap gap-2.5">
 
                                 {skills.map((skill) => (
                                     <div
