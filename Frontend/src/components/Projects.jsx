@@ -51,7 +51,7 @@ const projects = [
     image:
       "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=1200&q=85",
     imageAlt: "Workspace with a laptop and planning documents",
-    github: "https://github.com/mdaboubockr-lang/Todo-Application-API",
+    github: "https://github.com/mdaboubockr-lang/Task-Management-system",
     demo: "",
     details: "",
     accent: "from-emerald-500/20 to-teal-500/5",
@@ -68,7 +68,7 @@ const projects = [
     image:
       "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=85",
     imageAlt: "Laptop and digital learning workspace",
-    github: "https://github.com/mdaboubockr-lang",
+    github: "https://github.com/mdaboubockr-lang/LMS-ostad",
     demo: "",
     details: "",
     accent: "from-violet-500/20 to-purple-500/5",
@@ -102,7 +102,7 @@ const projects = [
     image:
       "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=1200&q=85",
     imageAlt: "Code displayed on a computer screen",
-    github: "https://github.com/mdaboubockr-lang",
+    github: "https://github.com/mdaboubockr-lang/Portfolio",
     demo: "",
     details: "",
     accent: "from-pink-500/20 to-rose-500/5",
@@ -119,7 +119,7 @@ const projects = [
     image:
       "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=85",
     imageAlt: "Programming code displayed on a computer",
-    github: "https://github.com/mdaboubockr-lang",
+    github: "https://github.com/mdaboubockr-lang/Student-Record-CLI",
     demo: "",
     details: "",
     accent: "from-slate-500/20 to-slate-700/5",
